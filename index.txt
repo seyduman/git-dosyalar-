@@ -1,1 +1,6 @@
-Bugün hava cok soguktu ve yagmur yagiyordu
+public class helloworld {
+public static void main(string args[])
+{
+system.out.println("hello world");
+}
+}
