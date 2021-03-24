@@ -1,2 +1,2 @@
-# git-dosyalar-
+# git-files-
 ## projenin amacı
